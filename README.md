@@ -44,7 +44,4 @@ Vanilla JavaScript task manager with CRUD functionality, local storage, and real
 
 ---
 
-✨ *“Turning ideas into clean, scalable code that solves real-world problems.”*  
-
-
 ✨ “Turning ideas into clean, scalable code that solves real-world problems.”
