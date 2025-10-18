@@ -8,14 +8,20 @@
 
 ## 🛠️ Tech Stack  
 
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)  
-![React](https://img.shields.io/badge/Framework-React-61DAFB?logo=react&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Backend-Express.js-lightgrey?logo=express&logoColor=black)  
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white)  
-![SQL](https://img.shields.io/badge/Database-SQL-blue)  
-![HTML5](https://img.shields.io/badge/Markup-HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/Style-CSS3-1572B6?logo=css3&logoColor=white)  
+![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/Framework-FastAPI-009688?logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=white)
+![Express](https://img.shields.io/badge/Backend-Express.js-lightgrey?logo=express&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/Database-SQL-blue)
+![REST_API](https://img.shields.io/badge/API-REST-FF6F00?logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/Auth-JWT-black?logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/Auth-OAuth2-3C79F5?logo=oauth&logoColor=white)
+![Postman](https://img.shields.io/badge/Testing-Postman-FF6C37?logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/Version_Control-GitHub-181717?logo=github&logoColor=white)
+![Agile](https://img.shields.io/badge/Workflow-Agile-blueviolet)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?logo=javascript&logoColor=white)
 
 ---
 
