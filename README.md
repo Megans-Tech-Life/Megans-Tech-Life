@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Megan Jakims  
 
 👩🏼‍💻 **Backend & Full-Stack Software Engineer** specializing in **Python, FastAPI, and React**  
-❤️‍🔥 Passionate about building **scalable APIs, system integrations, and user-focused applications**
+❤️‍🔥 Passionate about building scalable APIs, system integrations, and user-focused applications
 🌱 Always learning, always coding  
 
 ---
