@@ -29,17 +29,17 @@
 
 ## 📂 Featured Projects  
 
+**💰 [Affiliate_Marketing](https://github.com/Megans-Tech-Life/Affiliate_Marketing)**
+Backend service for an affiliate marketing page that manages B2B accounts & their progression through sales pipeline.
+
+**📦 [FEDEX_FastAPI](https://github.com/Megans-Tech-Life/FEDEX_FastAPI)**
+FastAPI app for FedEx tracking with Sandbox & Production support and real-time OAuth2 authentication.
+
 **👶 [Made_by_Mothers](https://megans-tech-life.github.io/Made_by_Mothers-frontend/)**  
 Recipe web app featuring homemade baby food recipes with real-time nutrition data, JWT authentication, and responsive design.  
 
 **☀️ [WTWR (What to Wear?)](https://github.com/megans-tech-life/se_project_express.git)**  
-Full-stack MERN application that recommends outfits based on weather data, with CRUD functionality and secure login.  
-
-**📸 [Spots](https://megans-tech-life.github.io/se_project_spots/)**  
-Responsive image-sharing platform where users can post, like, and manage photos with profile customization and form validation.  
-
-**✅ [ToDo App](https://github.com/megans-tech-life/se_project_todo-app)**  
-Vanilla JavaScript task manager with CRUD functionality, local storage, and real-time task tracking.  
+Full-stack MERN application that recommends outfits based on weather data, with CRUD functionality and secure login.   
 
 ---
 
