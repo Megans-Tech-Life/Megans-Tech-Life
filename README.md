@@ -3,6 +3,7 @@
 👩🏼‍💻 **Backend Software Engineer** specializing in **Python, FastAPI, and SQL**
   
 ❤️‍🔥 Passionate about building scalable APIs, system integrations, and clean backend architecture
+
 🌱 Always learning, always building, one line at a time 
 
 ---
