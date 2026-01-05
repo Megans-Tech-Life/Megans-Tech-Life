@@ -32,7 +32,7 @@
 **💰 [Affiliate_Marketing](https://github.com/Megans-Tech-Life/Affiliate_Marketing_Demo)**
 Backend demo API showcasing a modular, production-style CRM and affiliate tracking system built with FastAPI.
 
-**👶 [Made_by_Mothers](https://megans-tech-life.github.io/Made_by_Mothers-frontend/)**  
+**👶 [Made_by_Mothers](https://github.com/Megans-Tech-Life/Made_by_Mothers-frontend)**  
 Frontend recipe web app featuring homemade baby food recipes with real-time nutrition data, JWT authentication, and responsive design.  
 
 **☀️ [WTWR (What to Wear?)](https://github.com/megans-tech-life/se_project_express.git)**  
