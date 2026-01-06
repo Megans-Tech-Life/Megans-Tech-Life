@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Megan Jakims  
 
-👩🏼‍💻 **Backend Software Engineer** specializing in **Python, FastAPI, and SQL**
+👩🏼‍💻 **Backend & Full-Stack Software Engineer | APIs, System Design, Integrations**
   
-❤️‍🔥 Passionate about building scalable APIs, system integrations, and clean backend architecture
+❤️‍🔥 Passionate about building scalable APIs, system integrations, and and maintainable full-stack systems
 
 🌱 Always learning, always building, one line at a time 
 
@@ -10,33 +10,44 @@
 
 ## 🛠️ Tech Stack  
 
-![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/Framework-FastAPI-009688?logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=white)
-![Express](https://img.shields.io/badge/Backend-Express.js-lightgrey?logo=express&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/Database-SQL-blue)
-![REST_API](https://img.shields.io/badge/API-REST-FF6F00?logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/Auth-JWT-black?logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/Auth-OAuth2-3C79F5?logo=oauth&logoColor=white)
-![Postman](https://img.shields.io/badge/Testing-Postman-FF6C37?logo=postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/Version_Control-GitHub-181717?logo=github&logoColor=white)
-![Agile](https://img.shields.io/badge/Workflow-Agile-blueviolet)
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?logo=javascript&logoColor=white)
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+**Backend**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-blue)
+
+**APIs & Auth**
+![REST](https://img.shields.io/badge/REST-FF6F00)
+![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-3C79F5?logo=oauth&logoColor=white)
+
+**Tooling & Workflow**
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-blueviolet)
 
 ---
 
 ## 📂 Featured Projects  
 
-**💰 [Affiliate_Marketing](https://github.com/Megans-Tech-Life/Affiliate_Marketing_Demo)**
-Backend demo API showcasing a modular, production-style CRM and affiliate tracking system built with FastAPI.
+**💰 [Affiliate_Marketing_Demo](https://github.com/Megans-Tech-Life/Affiliate_Marketing_Demo)**  
+Backend API demo designed to simulate a production-style affiliate marketing CRM, featuring modular FastAPI architecture, JWT authentication, PostgreSQL data modeling, and scalable domain-based services.
 
 **👶 [Made_by_Mothers](https://github.com/Megans-Tech-Life/Made_by_Mothers-frontend)**  
-Frontend recipe web app featuring homemade baby food recipes with real-time nutrition data, JWT authentication, and responsive design.  
+React-based frontend application for homemade baby food recipes, integrating real-time nutrition data from the Nutritionix API, secure JWT authentication, and responsive UI design.
 
-**☀️ [WTWR (What to Wear?)](https://github.com/megans-tech-life/se_project_express.git)**  
-Full-stack MERN application that recommends outfits based on weather data, with CRUD functionality and secure login.   
+**☀️ [WTWR (What to Wear?)](https://github.com/Megans-Tech-Life/WTWR-What_to_Wear)**  
+Full-stack MERN application that delivers weather-based clothing recommendations, featuring JWT authentication, protected routes, and clean separation between static recommendation data and persisted user content.
 
 ---
 
