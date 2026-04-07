@@ -1,10 +1,9 @@
 # 👋 Hi, I’m Megan Jakims  
 
-👩🏼‍💻 Product Support Specialist & Full-Stack Software Engineer  
-🔧 APIs • Debugging • System Design  
+👩🏼‍💻 Product Support Specialist | Full-Stack Software Engineer  
+🔧 API Debugging • System Reliability • Technical Troubleshooting  
 
-Passionate about identifying what breaks systems and resolving issues efficiently to improve user experience.
-
+I specialize in identifying, reproducing, and resolving system issues to ensure smooth and reliable user experiences.
 ---
 
 ## 🛠️ Tech Stack  
