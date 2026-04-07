@@ -32,7 +32,7 @@
 **Tooling & Workflow**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-https://cdn-icons-png.flaticon.com/512/5968/5968875.png)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-blueviolet)
 
 ---
