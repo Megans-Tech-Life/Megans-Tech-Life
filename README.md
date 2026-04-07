@@ -1,10 +1,8 @@
 # 👋 Hi, I’m Megan Jakims  
 
-👩🏼‍💻 **Backend & Full-Stack Software Engineer | APIs, System Design, Integrations**
+👩🏼‍💻 **Product Support Specialist & Experienced Full-Stack Software Engineer | APIs, System Design, Debugging**
   
-❤️‍🔥 Passionate about building scalable APIs, system integrations, and and maintainable full-stack systems
-
-🌱 Always learning, always building, one line at a time 
+❤️‍🔥 Passionate about finding out what breaks a system and how to resolve it
 
 ---
 
@@ -34,6 +32,7 @@
 **Tooling & Workflow**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-https://cdn-icons-png.flaticon.com/512/5968/5968875.png)
 ![Agile](https://img.shields.io/badge/Agile-blueviolet)
 
 ---
