@@ -1,63 +1,63 @@
 # 👋 Hi, I’m Megan Jakims  
 
-👩🏼‍💻 Product Support Specialist | Full-Stack Software Engineer  
-🔧 API Debugging • System Reliability • Technical Troubleshooting  
+👩🏼‍💻 Product Support Specialist | Technical Troubleshooting | API Debugging  
+🔧 SaaS • Healthcare • SQL • System Reliability  
 
-I specialize in identifying, reproducing, and resolving system issues to ensure smooth and reliable user experiences.
+I specialize in diagnosing, reproducing, and resolving system issues to ensure smooth and reliable user experiences. With a background in software development and healthcare operations, I bridge the gap between users and engineering by combining technical problem-solving with clear, user-focused communication.
+
+---
+
+## 🧩 What I Do  
+
+- Investigate and troubleshoot product issues across APIs, databases, and user workflows  
+- Reproduce bugs and analyze request/response behavior using tools like Postman  
+- Support users by translating complex technical issues into clear, actionable solutions  
+- Collaborate with engineering teams to resolve and prevent recurring issues  
+- Improve system reliability and overall customer experience  
+
 ---
 
 ## 🛠️ Tech Stack  
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+**Languages**  
+Python • JavaScript  
 
-**Backend**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white)
+**Backend**  
+FastAPI • Express.js  
 
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+**Frontend**  
+React  
 
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-blue)
+**Databases**  
+PostgreSQL • MongoDB • MySQL • SQL  
 
-**APIs & Auth**
-![REST](https://img.shields.io/badge/REST-FF6F00)
-![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-3C79F5?logo=oauth&logoColor=white)
+**APIs & Auth**  
+REST APIs • JWT • OAuth2  
 
-**Tooling & Workflow**
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-blueviolet)
+**Tools & Workflow**  
+Postman • GitHub • Jira • Agile  
 
 ---
 
 ## 📂 Featured Projects  
 
 **💰 [Affiliate_Marketing_Demo](https://github.com/Megans-Tech-Life/Affiliate_Marketing_Demo)**  
-Backend API demo designed to simulate a production-style affiliate marketing CRM, featuring modular FastAPI architecture, JWT authentication, PostgreSQL data modeling, and scalable domain-based services.
+Backend API project simulating a production-style CRM. Focused on authentication, data modeling, and debugging API workflows to ensure reliability and performance.
 
 **👶 [Made_by_Mothers](https://github.com/Megans-Tech-Life/Made_by_Mothers-frontend)**  
-React-based frontend application for homemade baby food recipes, integrating real-time nutrition data from the Nutritionix API, secure JWT authentication, and responsive UI design.
+Frontend application integrating third-party APIs and authentication. Demonstrates handling real-time data, user flows, and system interactions.
 
 **☀️ [WTWR (What to Wear?)](https://github.com/Megans-Tech-Life/WTWR-What_to_Wear)**  
-Full-stack MERN application that delivers weather-based clothing recommendations, featuring JWT authentication, protected routes, and clean separation between static recommendation data and persisted user content.
+Full-stack application with authentication, protected routes, and API integration. Highlights debugging, user experience, and end-to-end functionality.
 
 ---
 
 ## 📫 Let’s Connect  
-- 💼 [LinkedIn](https://linkedin.com/in/meganstechlife)  
-- 💻 [GitHub](https://github.com/Megans-Tech-Life)  
-- ✉️ meganjakims1@gmail.com  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Megans-Tech-Life&style=flat-square&color=blue)  
+- 💼 LinkedIn: https://linkedin.com/in/meganstechlife  
+- 💻 GitHub: https://github.com/Megans-Tech-Life  
+- ✉️ Email: meganjakims1@gmail.com  
 
 ---
 
-✨ Turning ideas into clean, scalable code that solves real-world problems ✨
+✨ Focused on solving real user problems through technical insight, clear communication, and continuous improvement ✨
